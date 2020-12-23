@@ -10,7 +10,7 @@
         "php": "^7.2",
         "ext-openssl": "*",
         "ext-json": "*",
-        "guzzlehttp/guzzle": "^6.5",
+        "guzzlehttp/guzzle": "^6.5|^7.0",
         "psr/log": "^1.1",
         "symfony/serializer": "*",
         "symfony/property-access": "*"
